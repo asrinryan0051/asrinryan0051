@@ -80,11 +80,9 @@ Future expansions:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>
 </p>
----
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/asrin-ryan-c-845598354
-- 📧 Email: asrinryan700@gmail.com
-- 💻 GitHub: [@asrinryan0051](https://github.com/asrinryan0051)
+
 ---
 
 **"I don’t build projects to look busy — I build to prove real skills."**
+
+---
