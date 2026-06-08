@@ -1,27 +1,41 @@
 <h1 align="center">Hi 👋, I'm Asrin Ryan</h1>
-<h3 align="center">AI Developer | Deep Learning | Computer Vision | Automotive Analytics </h3>
+<h3 align="center">AI Developer | Deep Learning | Computer Vision | Automotive Intelligence</h3>
 
 ---
 
-## 🚀 About Me
-I'm **Asrin Ryan C**, a Computer Science Engineering student building toward becoming an **AI Developer** and a strong **product-focused engineer**.
+## 🧠 Engineering Philosophy
+I am a Computer Science Engineering student focused on building highly specialized, production-grade intelligent systems. While my portfolio showcases my polished, live user applications, my GitHub serves as the architectural sandbox where the underlying math, data engineering, and code logic live.
 
-I don’t just do common beginner projects — I build **real-world systems** that combine:
-
-✅ AI / Deep Learning  
-✅ Analytics & dashboards  
-✅ Engineering logic + performance computation  
-✅ Product-style workflows
-
-My long-term goal is to become a developer who can design, build, and ship **end-to-end AI products**.
+When designing software, my product-engineering mindset prioritizes:
+* **Custom Architectural Design:** Building multi-modal inputs, hybrid logic layers, and proprietary algorithms (like my CORe predictive engine) rather than simply calling generic, out-of-the-box APIs.
+* **Resource Optimization:** Training and fine-tuning neural networks to maintain exceptional generalization and precision even when constrained by sparse, noisy, or low-volume training datasets.
+* **End-to-End System Integration:** Graduating models out of standalone Jupyter notebooks and deploying them into fully functional, interactive production environments.
 
 ---
 
-## 🧩 What Makes Me Different
-🔹 I focus on **project quality + uniqueness**, not just quantity  
-🔹 I build with a clear niche: **Cars + AI + Performance Analytics**  
-🔹 I work like a developer: *design → build → test → validate → improve*  
-🔹 I cross-check calculations and outcomes (example: Red-Line Analytics reached **~96% verified accuracy**)  
+## 👁️ Core CSE Focus: Deep Learning & Computer Vision
+My academic and development track within Computer Science Engineering is centered heavily on processing complex, real-world visual and structured data:
+* **Convolutional Neural Networks (CNNs):** Experienced in implementing custom and backbone-driven (e.g., MobileNetV2, ResNet) architectures for precise image classification and feature extraction.
+* **Multi-Modal Implementations:** Designing systems that don't just look at images, but process parallel structured metadata layers simultaneously to drastically minimize model uncertainty.
+* **Transfer Learning & Optimization:** Leveraging frozen backbones, custom data augmentation pipelines, batch normalization, and dropout techniques to enforce training stability and model robustness.
+
+---
+
+## 🏎️ Domain Authority: Automotive AI
+What sets my software engineering apart is a deep, mechanical understanding of vehicle physics and engine logic. I don't treat data as arbitrary numbers; I write code that inherently respects real-world automotive engineering.
+
+* **Physics-Driven Logic:** Translating mechanical parameters—including vehicle dynamics, performance tuning metrics, and complex powertrain logic—into precise algorithmic models.
+* **Applied Vision in Transport:** Tailoring computer vision systems specifically to navigate the visual anomalies, variable environments, and edge cases native to automotive analytics.
+* **Academic Research:** Actively working toward publishing a dedicated research paper intersecting Computer Science/AI applications with the automotive domain by my seventh semester.
+
+---
+
+## 🔬 Currently in the Lab
+My public, client-facing projects are live on my main site. Behind the scenes on GitHub, I am actively developing, stress-testing, and breaking:
+
+* 🔋 **EV Intelligence:** Researching the application of Machine Learning algorithms to OBD-II data streams to generate certified, predictive health and degradation reports for Electric Vehicle battery systems.
+* ⚙️ **DevOps & Linux Infrastructure:** Maintaining a dedicated, local Oracle VirtualBox virtual machine lab to master Linux command-line operations, server administration, and low-level networking fundamentals.
+* ⚡ **Data Structures & Algorithms (DSA):** Continuously optimizing my problem-solving speed and algorithmic efficiency through advanced Python competitive programming.
 
 ---
 
@@ -35,40 +49,7 @@ To build strong real-world AI systems, I'm also learning:
 This helps me become not only an AI model builder, but a complete **Product Engineer** with strong technical foundation.
 
 ---
-
-## 🏆 Highlight Projects
-### 🔥 1) Red-Line Analytics (Professional Virtual Dyno)
-🚗 A performance analytics engine that estimates:
-- 0–100 km/h
-- weight-based performance outcomes
-- power-based acceleration behavior
-
-✅ Verified computations with official sources  
-✅ Built as a **real engineering system**, not just a demo  
-
----
-
-### 📊 2) Car Performance Analytics Dashboard
-A web-based dashboard system to visualize performance & insights.
-
-✅ HTML + CSS + JS  
-✅ Dashboard mindset (analytics-first development)
-
----
-
-### 🧠 3) DriveNet Intelligence (Computer Vision Project)
-A vehicle intelligence system (current stage):
-- **Vehicle category prediction**
-
-Future expansions:
-- Vehicle detection
-- Tracking
-- Counting analytics
-- Road safety monitoring system
-
----
-
-## 🛠️ Tech Stack & Tools I Use
+## 🛠️ My Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45"/>
